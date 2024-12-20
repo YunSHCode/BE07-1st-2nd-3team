@@ -1,7 +1,7 @@
 # BE07-1st-2nd-3team
 # 프로젝트 풀잎당
 
-<img src="/src/main/resources/static/images/Logo.png">
+<img src="/Logo.png">
 
 ### 🔻 팀원 
 [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/YunSHCode) **윤성훈**  
@@ -41,7 +41,7 @@
 
 ## 🟦 3. ERD (Entity-Relationship Diagram)
 
-<img src="/src/main/resources/static/images/ERD.png" alt="ERD Diagram" width="80%">
+<img src="/ERD.png" alt="ERD Diagram" width="80%">
 
 ---
 
